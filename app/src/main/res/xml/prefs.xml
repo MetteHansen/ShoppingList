@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="name"
+        android:hint="List title"
+        android:summary="Provide the list with a custom name"
+        android:title="Name of list"/>
+
+    <EditTextPreference
+        android:key="comment"
+        android:hint="Message"
+        android:summary="Provide a message for the recipient"
+        android:title="Message"/>
+
+</PreferenceScreen>

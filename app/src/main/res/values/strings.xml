@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_my_shopping_list">Welcome to </string>
+    <string name="add_to_bag">Add</string>
+    <string name="hint_for_items">Item</string>
+    <string name="hint_for_quantity">Quant</string>
+    <string name="clear_selected">Remove Item</string>
+    <string name="clear_all">Empty List</string>
+    <string name="share">Share</string>
+
+</resources>
